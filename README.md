@@ -6,6 +6,7 @@ Patika.dev > Java101 > Pratik1 - Not Ortalaması Hesaplayan Program
 *Not : If ve Else kullanılmayacak.
 
 	import java.util.*;
+	
 	public class pratik1 {
 	
 		public static void main(String[] args) {
