@@ -1,4 +1,4 @@
-# NotOrtalamasiHesaplayanProgram
+# Not Ortalaması Hesaplayan Program
 Patika.dev > Java101 > Temel Kavramlar ve Değişkenler > Pratik1 - Not Ortalaması Hesaplayan Program
 
 ## Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını kullanıcıdan alan ve ortalamalarını hesaplayıp ekrana bastırılan programı yazın. 
